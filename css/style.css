@@ -65,4 +65,17 @@ h2 {
     padding-right: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+
+}
+
+#jr-web-developer {
+    border-left: 10px solid blue;
+}
+
+#full-stack-developer {
+    border-left: 10px solid tomato;
+}
+
+footer p {
+    text-align: center;
 }
